@@ -4,6 +4,6 @@ public class FirstClass {
     {
         s='welcome to salesforce';
         system.debug(s);
-        sytem.debug('sad');
+        system.debug('sad');
     }
 }
