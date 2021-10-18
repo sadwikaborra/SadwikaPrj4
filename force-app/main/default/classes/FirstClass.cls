@@ -7,7 +7,7 @@ public class FirstClass {
         system.debug('sadwika borra');
         system.debug('janani1527fdS');
         system.debug('jenithag');
-        system.debug('borra');
+        system.debug('borra01');
         
     }
 }
