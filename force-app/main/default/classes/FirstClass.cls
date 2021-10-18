@@ -6,6 +6,6 @@ public class FirstClass {
         system.debug(s);
         system.debug('sadwika borra');
         system.debug('janani1527fdS');
-        system.debug('jenitha');
+        system.debug('jenithag');
     }
 }
