@@ -29,6 +29,26 @@
         <name>LightningComponentBundle</name>
     </types>
     <types>
+        <members>Contact</members>
+        <name>Workflow</name>
+    </types>  
+   <types>
+        <members>Contact.Contact Field Update</members>
+        <name>WorkflowRule</name>
+    </types>
+   <types>
+        <members>Contact.Update_Field</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
+        <member>LeadFieldUpdate</members>
+        <name>Flow</name>
+    </types>
+     <types>
+  <members>Contact.CheckEmailField</members>
+        <name>ValidationRule</name>
+    </types>  
+    <types>
         <members>*</members>
         <name>StaticResource</name>
     </types>
