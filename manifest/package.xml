@@ -41,7 +41,7 @@
         <name>WorkflowFieldUpdate</name>
     </types>
     <types>
-        <member>LeadFieldUpdate</members>
+        <members>*</members>
         <name>Flow</name>
     </types>
      <types>
